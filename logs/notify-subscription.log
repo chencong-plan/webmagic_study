@@ -1,0 +1,176 @@
+2018-01-02 14:51:10,613 - Spider github.com started!
+2018-01-02 14:51:12,867 - downloading page success https://github.com/chencong-plan
+2018-01-02 14:51:15,141 - downloading page success https://github.com/marketplace
+2018-01-02 14:51:15,213 - downloading page success https://github.com/features
+2018-01-02 14:51:15,524 - downloading page success https://github.com/explore
+2018-01-02 14:51:16,471 - downloading page success https://github.com/business
+2018-01-02 14:51:16,571 - downloading page success https://github.com/login
+2018-01-02 14:51:16,586 - downloading page success https://github.com/pricing
+2018-01-02 14:51:16,955 - downloading page success https://github.com/join
+2018-01-02 14:51:17,589 - downloading page success https://github.com/chencong
+2018-01-02 14:51:18,227 - downloading page success https://github.com/contact
+2018-01-02 14:51:18,502 - downloading page success https://github.com/site
+2018-01-02 14:51:18,502 - page status code error, page https://github.com/site , code: 404
+2018-01-02 14:51:18,897 - downloading page success https://github.com/security
+2018-01-02 14:51:19,122 - downloading page success https://github.com/about
+2018-01-02 14:51:20,077 - downloading page success https://github.com/contact/report
+2018-01-02 14:51:20,077 - page status code error, page https://github.com/contact/report , code: 404
+2018-01-02 14:51:20,131 - downloading page success https://github.com/blog
+2018-01-02 14:51:20,313 - downloading page success https://github.com/site/terms
+2018-01-02 14:51:21,138 - downloading page success https://github.com/personal
+2018-01-02 14:51:21,368 - downloading page success https://github.com/site/privacy
+2018-01-02 14:51:21,844 - downloading page success https://github.com/marketplace/pageclip
+2018-01-02 14:51:21,869 - downloading page success https://github.com/open
+2018-01-02 14:51:22,627 - downloading page success https://github.com/marketplace/styleci
+2018-01-02 14:51:22,815 - downloading page success https://github.com/marketplace/rollbar
+2018-01-02 14:51:22,832 - downloading page success https://github.com/marketplace/testquality
+2018-01-02 14:51:23,275 - downloading page success https://github.com/marketplace/free
+2018-01-02 14:51:23,275 - page status code error, page https://github.com/marketplace/free , code: 404
+2018-01-02 14:51:24,142 - downloading page success https://github.com/marketplace/zube
+2018-01-02 14:51:24,306 - downloading page success https://github.com/marketplace/sideci
+2018-01-02 14:51:25,089 - downloading page success https://github.com/marketplace/code
+2018-01-02 14:51:25,090 - page status code error, page https://github.com/marketplace/code , code: 404
+2018-01-02 14:51:25,704 - downloading page success https://github.com/marketplace/zenhub
+2018-01-02 14:51:25,819 - downloading page success https://github.com/marketplace/issue
+2018-01-02 14:51:25,820 - page status code error, page https://github.com/marketplace/issue , code: 404
+2018-01-02 14:51:26,595 - downloading page success https://github.com/marketplace/category
+2018-01-02 14:51:26,596 - page status code error, page https://github.com/marketplace/category , code: 404
+2018-01-02 14:51:26,743 - downloading page success https://github.com/marketplace/cloud
+2018-01-02 14:51:26,744 - page status code error, page https://github.com/marketplace/cloud , code: 404
+2018-01-02 14:51:27,347 - downloading page success https://github.com/marketplace/backhub
+2018-01-02 14:51:27,368 - downloading page success https://github.com/marketplace/dependabot
+2018-01-02 14:51:28,309 - downloading page success https://github.com/marketplace/codecov
+2018-01-02 14:51:28,323 - downloading page success https://github.com/marketplace/codacy
+2018-01-02 14:51:28,849 - downloading page success https://github.com/marketplace/codebeat
+2018-01-02 14:51:29,595 - downloading page success https://github.com/marketplace/travis
+2018-01-02 14:51:29,596 - page status code error, page https://github.com/marketplace/travis , code: 404
+2018-01-02 14:51:29,780 - downloading page success https://github.com/marketplace/circleci
+2018-01-02 14:51:29,830 - downloading page success https://github.com/marketplace/coveralls
+2018-01-02 14:51:30,301 - downloading page success https://github.com/marketplace/appveyor
+2018-01-02 14:51:31,056 - downloading page success https://github.com/marketplace/percy
+2018-01-02 14:51:31,228 - downloading page success https://github.com/marketplace/buddy
+2018-01-02 14:51:31,742 - downloading page success https://github.com/marketplace/sentry
+2018-01-02 14:51:32,740 - downloading page success https://github.com/marketplace/airbrake
+2018-01-02 14:51:32,816 - downloading page success https://github.com/marketplace/better
+2018-01-02 14:51:32,817 - page status code error, page https://github.com/marketplace/better , code: 404
+2018-01-02 14:51:33,267 - downloading page success https://github.com/marketplace/logrocket
+2018-01-02 14:51:34,245 - downloading page success https://github.com/marketplace/waffle
+2018-01-02 14:51:34,331 - downloading page success https://github.com/marketplace/blackfire
+2018-01-02 14:51:34,331 - page status code error, page https://github.com/marketplace/blackfire , code: 404
+2018-01-02 14:51:34,739 - downloading page success https://github.com/marketplace/codetree
+2018-01-02 14:51:35,068 - downloading page success https://github.com/marketplace/new
+2018-01-02 14:51:35,835 - download page https://github.com/marketplace/semaphore error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:983)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:940)
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:139)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:155)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:284)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:261)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:165)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:272)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:124)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:85)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-01-02 14:51:36,462 - downloading page success https://github.com/business/customers
+2018-01-02 14:51:36,971 - downloading page success https://github.com/about/careers
+2018-01-02 14:51:37,039 - downloading page success https://github.com/about/press
+2018-01-02 14:51:37,421 - downloading page success https://github.com/atom
+2018-01-02 14:51:37,734 - downloading page success https://github.com/works
+2018-01-02 14:51:38,290 - downloading page success https://github.com/electron
+2018-01-02 14:51:38,666 - downloading page success https://github.com/git
+2018-01-02 14:51:38,790 - downloading page success https://github.com/github
+2018-01-02 14:51:38,841 - downloading page success https://github.com/collections
+2018-01-02 14:51:39,773 - downloading page success https://github.com/topics
+2018-01-02 14:51:40,162 - downloading page success https://github.com/features/code
+2018-01-02 14:51:40,162 - page status code error, page https://github.com/features/code , code: 404
+2018-01-02 14:51:40,629 - downloading page success https://github.com/features/integrations
+2018-01-02 14:51:41,469 - downloading page success https://github.com/features/project
+2018-01-02 14:51:41,470 - page status code error, page https://github.com/features/project , code: 404
+2018-01-02 14:51:42,069 - downloading page success https://github.com/blog/2233
+2018-01-02 14:51:42,099 - downloading page success https://github.com/github/hubot
+2018-01-02 14:51:42,314 - downloading page success https://github.com/electron/electron
+2018-01-02 14:51:42,479 - downloading page success https://github.com/atom/atom
+2018-01-02 14:51:43,058 - downloading page success https://github.com/blog/2299
+2018-01-02 14:51:43,689 - downloading page success https://github.com/blog/2304
+2018-01-02 14:51:43,949 - downloading page success https://github.com/wangshub
+2018-01-02 14:51:44,451 - downloading page success https://github.com/transloadit
+2018-01-02 14:51:44,585 - downloading page success https://github.com/danielmiessler
+2018-01-02 14:51:45,174 - downloading page success https://github.com/guardianproject
+2018-01-02 14:51:45,212 - downloading page success https://github.com/developer
+2018-01-02 14:51:45,884 - downloading page success https://github.com/tipsy
+2018-01-02 14:51:46,038 - downloading page success https://github.com/DenisKolodin
+2018-01-02 14:51:46,601 - downloading page success https://github.com/events
+2018-01-02 14:51:46,823 - downloading page success https://github.com/blog/2477
+2018-01-02 14:51:47,473 - downloading page success https://github.com/trending
+2018-01-02 14:51:47,543 - downloading page success https://github.com/collections/music
+2018-01-02 14:51:49,054 - downloading page success https://github.com/collections/social
+2018-01-02 14:51:49,055 - page status code error, page https://github.com/collections/social , code: 404
+2018-01-02 14:51:49,580 - downloading page success https://github.com/collections/machine
+2018-01-02 14:51:49,581 - page status code error, page https://github.com/collections/machine , code: 404
+2018-01-02 14:51:49,991 - downloading page success https://github.com/collections/clean
+2018-01-02 14:51:49,992 - page status code error, page https://github.com/collections/clean , code: 404
+2018-01-02 14:51:50,084 - downloading page success https://github.com/collections/github
+2018-01-02 14:51:50,084 - page status code error, page https://github.com/collections/github , code: 404
+2018-01-02 14:51:50,610 - downloading page success https://github.com/wangshub/wechat_jump_game
+2018-01-02 14:51:51,157 - downloading page success https://github.com/transloadit/uppy
+2018-01-02 14:51:51,509 - downloading page success https://github.com/danielmiessler/SecLists
+2018-01-02 14:51:51,990 - downloading page success https://github.com/collections/web
+2018-01-02 14:51:51,990 - page status code error, page https://github.com/collections/web , code: 404
+2018-01-02 14:51:52,097 - downloading page success https://github.com/guardianproject/haven
+2018-01-02 14:51:53,122 - downloading page success https://github.com/tipsy/github
+2018-01-02 14:51:53,123 - page status code error, page https://github.com/tipsy/github , code: 404
+2018-01-02 14:51:53,137 - downloading page success https://github.com/DenisKolodin/yew
+2018-01-02 14:51:54,288 - downloading page success https://github.com/topics/perl
+2018-01-02 14:51:54,313 - downloading page success https://github.com/topics/firebase
+2018-01-02 14:51:54,364 - downloading page success https://github.com/topics/julia
+2018-01-02 14:51:54,827 - downloading page success https://github.com/business/security
+2018-01-02 14:51:55,681 - downloading page success https://github.com/password_reset
+2018-01-02 14:51:55,793 - downloading page success https://github.com/pricing/developer
+2018-01-02 14:51:55,893 - downloading page success https://github.com/topics/mongodb
+2018-01-02 14:51:56,201 - downloading page success https://github.com/pricing/team
+2018-01-02 14:51:56,768 - downloading page success https://github.com/pricing/business
+2018-01-02 14:51:56,769 - page status code error, page https://github.com/pricing/business , code: 404
+2018-01-02 14:51:57,251 - downloading page success https://github.com/c
+2018-01-02 14:51:57,484 - downloading page success https://github.com/contact/privacy
+2018-01-02 14:51:57,708 - downloading page success https://github.com/contact/dmca
+2018-01-02 14:51:58,417 - downloading page success https://github.com/categories
+2018-01-02 14:51:58,417 - page status code error, page https://github.com/categories , code: 404
+2018-01-02 14:51:58,686 - downloading page success https://github.com/enterprise
+2018-01-02 14:51:58,687 - page status code error, page https://github.com/enterprise , code: 404
+2018-01-02 14:51:58,867 - downloading page success https://github.com/articles
+2018-01-02 16:50:41,200 - Spider angularjs.cn started!
+2018-01-02 16:50:41,686 - downloading page success http://angularjs.cn/api/article/latest?p=1&s=20
+2018-01-02 16:50:46,882 - downloading page success http://angularjs.cn/api/article/A2NN
+2018-01-02 16:50:51,932 - downloading page success http://angularjs.cn/api/article/A2NM
+2018-01-02 16:50:56,984 - downloading page success http://angularjs.cn/api/article/A2NL
+2018-01-02 16:51:02,033 - downloading page success http://angularjs.cn/api/article/A2NH
+2018-01-02 16:51:07,083 - downloading page success http://angularjs.cn/api/article/A2NE
+2018-01-02 16:51:12,138 - downloading page success http://angularjs.cn/api/article/A2ND
+2018-01-02 16:51:17,209 - downloading page success http://angularjs.cn/api/article/A2NC
+2018-01-02 16:51:22,262 - downloading page success http://angularjs.cn/api/article/A2NA
+2018-01-02 16:51:27,318 - downloading page success http://angularjs.cn/api/article/A2Np
+2018-01-02 16:51:32,372 - downloading page success http://angularjs.cn/api/article/A2No
+2018-01-02 16:51:37,424 - downloading page success http://angularjs.cn/api/article/A2Nl
