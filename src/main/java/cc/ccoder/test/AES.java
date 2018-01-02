@@ -17,7 +17,13 @@ import sun.misc.BASE64Encoder;
 import java.net.URLEncoder;
 
 public class AES {
-    // 加密
+    /**
+     * 加密
+     * @param sSrc
+     * @param sKey
+     * @return
+     * @throws Exception
+     */
     public static String Encrypt(String sSrc, String sKey) throws Exception {
         if (sKey == null) {
             System.out.print("Key为空null");
@@ -41,7 +47,13 @@ public class AES {
         return new BASE64Encoder().encode(encrypted);
     }
 
-    // 解密
+    /**
+     * 解密
+     * @param sSrc
+     * @param sKey
+     * @return
+     * @throws Exception
+     */
     public static String Decrypt(String sSrc, String sKey) throws Exception {
         try {
             // 判断Key是否正确
